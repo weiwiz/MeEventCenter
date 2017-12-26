@@ -28,6 +28,7 @@
     "fs": "0.0.1-security",
     "lodash": "^4.17.4",
     "meshblu": "^2.2.7",
+    "log4js": "^2.4.1",
     "mongoose": "^4.8.1",
     "node-uuid": "^1.4.7",
     "path": "^0.12.7",
